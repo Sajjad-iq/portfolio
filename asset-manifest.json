@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2b1845c1.css",
+    "main.js": "/portfolio/static/js/main.7cab878f.js",
+    "static/media/Picsart_22-09-18_18-25-55-248.jpg": "/portfolio/static/media/Picsart_22-09-18_18-25-55-248.176b8d5cf25e0b3d8bd9.jpg",
+    "static/media/Earth.jpg": "/portfolio/static/media/Earth.b523a7435602612b6609.jpg",
+    "static/media/roomHome.jpg": "/portfolio/static/media/roomHome.18dc342cd91beb84e403.jpg",
+    "static/media/Ecommre.png": "/portfolio/static/media/Ecommre.0831a6d40f2a09474e98.png",
+    "static/media/hero-devices.svg": "/portfolio/static/media/hero-devices.ca82e97c349a897082b6268dd7f8d733.svg",
+    "static/media/instagram-svgrepo-com.svg": "/portfolio/static/media/instagram-svgrepo-com.62572c862d53f228aa8eff879e2e1d37.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/portfolio/static/media/linkedin-svgrepo-com.8f3ee2e4bce13f452203c6f5c705d9d4.svg",
+    "static/media/github-svgrepo-com.svg": "/portfolio/static/media/github-svgrepo-com.6b128a9af225878ee620c71c4ccf182b.svg",
+    "index.html": "/portfolio/index.html",
+    "main.2b1845c1.css.map": "/portfolio/static/css/main.2b1845c1.css.map",
+    "main.7cab878f.js.map": "/portfolio/static/js/main.7cab878f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b1845c1.css",
+    "static/js/main.7cab878f.js"
+  ]
+}
